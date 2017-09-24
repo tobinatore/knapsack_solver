@@ -8,7 +8,7 @@ A small console application for optimally packing ones backpack. Written in May 
 Funktionalität / Functionality: 10  
 Code Qualität / Quality of your code: 7  
 Dokumentation / Documentation: 6  
-Features: 4
+Features: 4  
 GUI: 3
    
 Feedback zu Deiner Abgabe:  
